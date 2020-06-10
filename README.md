@@ -1,2 +1,2 @@
-# discord-bot
+# Discord-Bot - Uperox
 Official Uperox-Discord Bot
